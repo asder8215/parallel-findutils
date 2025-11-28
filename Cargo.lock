@@ -882,9 +882,9 @@ dependencies = [
 
 [[package]]
 name = "sharded_ringbuf"
-version = "0.3.0"
+version = "0.5.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "5bfbf1c19a57029c53fd682413e8e9daed913212528c70e37edb8174bc626631"
+checksum = "70e30f6c6dfbbb888b66d202306116508dd54e9bbdfd63115f78ef297c202c42"
 dependencies = [
  "crossbeam-utils",
  "tokio",
