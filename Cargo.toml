@@ -28,7 +28,7 @@ assert_cmd = "2"
 filetime = "0.2"
 nix = { version = "0.30", features = ["fs"] }
 predicates = "3"
-serial_test = "3.2"
+serial_test = "3.3"
 tempfile = "3"
 pretty_assertions = "1.4.1"
 
